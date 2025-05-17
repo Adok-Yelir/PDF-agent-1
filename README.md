@@ -1,1 +1,1 @@
-# PDF-Manager bootstrap 
+docs: full setup instructions
